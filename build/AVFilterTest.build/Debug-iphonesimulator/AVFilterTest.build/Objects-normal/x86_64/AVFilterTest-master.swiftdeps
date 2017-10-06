@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.0 (swiftlang-900.0.65 clang-900.0.37)"
+options: "eb74cd70a6e27ec9d4c9b06b9490af33"
+build_time: [1507212186, 758150000]
+inputs:
+  "/Users/haruyaishikawa/Documents/2. Vision/AVFilterTest/AVFilterTest/ViewController.swift": [1507189186, 0]
+  "/Users/haruyaishikawa/Documents/2. Vision/AVFilterTest/AVFilterTest/AppDelegate.swift": [1507172885, 0]
